@@ -30,14 +30,11 @@
 # Table작성
 - 함수의 '설명서'는 아래와 같습니다.
 
-\begin{table}[]
-\begin{tabular}{lllll}
-funcion & plot & Description &  &  \\
-변영민     & 23   & 코딩공부중       &  &  \\
-        &      &             &  &  \\
-        &      &             &  & 
-\end{tabular}
-\end{table}
+| funcion | plot | Description |   |   |
+|---------|------|-------------|---|---|
+| 변영민  | 23   | 코딩공부중  |   |   |
+|         |      |             |   |   |
+|         |      |             |   |   |
 
 # 소스코드 입력
 - 터미널 bash 코드 입력 예제
