@@ -33,7 +33,7 @@
 \begin{table}[]
 \begin{tabular}{lllll}
 funcion & plot & Description &  &  \\
-        &      &             &  &  \\
+변영민     & 23   & 코딩공부중       &  &  \\
         &      &             &  &  \\
         &      &             &  & 
 \end{tabular}
