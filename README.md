@@ -32,8 +32,8 @@
 
 \begin{table}[]
 \begin{tabular}{lllll}
-|funcion | plot | Description |  &  \\
-|ggbarstats | correlation | for cor|           &  &  \\
+funcion & plot & Description &  &  \\
+        &      &             &  &  \\
         &      &             &  &  \\
         &      &             &  & 
 \end{tabular}
@@ -42,13 +42,12 @@
 # 소스코드 입력
 - 터미널 bash 코드 입력 예제
 
+
 ```shell script
 python 
 python
+````
 
-import pandas as pd
-
-```` 
 
 # 그림파일 예제
 - 다음은 그림파일 예제입니다.
